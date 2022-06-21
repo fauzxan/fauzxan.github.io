@@ -429,6 +429,23 @@ a {
 	z-index: 1;
 	overflow: auto;
 }
+#mySidebar{
+    z-index: 3; 
+    width: 300px; 
+    font-weight: bold;
+}
+#pagecontenttop{
+    margin-left: 340px; margin-right: 40px;
+}
+#showcase{
+    margin-top: 80px;
+}
+.photoGridModal{
+    width: 100%;
+}
+#modal01{
+    padding-top: 0;
+}
 .w3-bar-block .w3-dropdown-hover,
 .w3-bar-block .w3-dropdown-click {
 	width: 100%;
