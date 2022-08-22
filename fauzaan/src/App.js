@@ -1,12 +1,11 @@
 import "./App.css";
-import SideBar from "./components/SideBar";
-import PageContent from "./components/PageContent";
+import Main from "./components/Routes/main";
 
 function App() {
 	return (
 		<div>
-			<SideBar />
-      <PageContent />
+			<Main />
+			
 		</div>
 	);
 }
